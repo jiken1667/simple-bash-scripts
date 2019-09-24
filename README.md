@@ -1,5 +1,11 @@
 A collection of simple Bash scripts.
 
+## Clone the Repository
+1. `git clone https://github.com/jiken1667/simple-bash-scripts`
+1. `cd simple-bash-scripts`
+1. `chmod a+x * -R`
+
+
 ## Getting Started
 
 1. [Hello.sh](scripts/hello-world.sh): get a simple output
